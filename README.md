@@ -1,4 +1,4 @@
-Re# Gorakh-Sawant
+# Gorakh-Sawant
 
 ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9zezP7mpfbOiT1Ws4FyMclfODolCnxLi_PA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Gorakh Sawant</h1>
