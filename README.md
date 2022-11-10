@@ -1,4 +1,6 @@
 # Gorakh-Sawant
+
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9zezP7mpfbOiT1Ws4FyMclfODolCnxLi_PA&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Gorakh Sawant</h1>
 <h3 align="center">A enthusiastic and passionate MCA student on the journey of becoming an successful Software Engineer!</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
